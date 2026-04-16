@@ -19,6 +19,6 @@
 ```bash
 git clone [https://github.com/dward043/Zenix-Tool.git](https://github.com/dward043/Zenix-Tool.git)
 cd Zenix-Tool
-'''
+```bash
 BU SUNUCUDA BRUTE FORCE SALDIRISINI ÖGRENEBİLİRSİNİZ
 https://bflab.netlify.app/
